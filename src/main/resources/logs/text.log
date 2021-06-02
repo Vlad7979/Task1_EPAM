@@ -1,0 +1,50 @@
+11:26:20.362 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:26:20.409 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:26:20.424 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:54:56.486 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:54:56.511 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:54:56.519 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+11:54:56.540 [StringValidator] INFO  StringValidator - Method isArray for line 1 4 6 4 1 -3 5 returns true
+12:02:09.593 [StringValidator] INFO  StringValidator - Method isArray for line 23 3 12 -4 -123 returns true
+12:02:09.607 [ArrayReader] INFO  ArrayReader - String 23 3 12 -4 -123 is read
+12:09:06.076 [StringParser] INFO  StringParser - int string [1, -4, 6] is parsed into array
+12:11:41.821 [StringValidator] INFO  StringValidator - Method isArray for line 1 4 6 4 1 -3 5 returns true
+12:11:41.841 [StringValidator] INFO  StringValidator - Method isArray for line -1z 3 6 3 -7 returns false
+12:12:12.702 [StringValidator] INFO  StringValidator - Method isArray for line 1 4 6 4 1 -3 5 returns true
+12:12:12.720 [StringValidator] INFO  StringValidator - Method isArray for line -1z 3 6 3 -7 returns false
+12:12:30.408 [StringValidator] INFO  StringValidator - Method isArray for line 23 3 12 -4 -123 returns true
+12:12:30.408 [ArrayReader] INFO  ArrayReader - String 23 3 12 -4 -123 is read
+12:12:30.440 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:12:30.455 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:12:30.471 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:12:30.518 [StringParser] INFO  StringParser - int string [1, -4, 6] is parsed into array
+12:12:30.518 [StringValidator] INFO  StringValidator - Method isArray for line 1 4 6 4 1 -3 5 returns true
+12:12:30.533 [StringValidator] INFO  StringValidator - Method isArray for line -1z 3 6 3 -7 returns false
+12:13:33.151 [ArrayReader] ERROR ArrayReader - File validation failed
+12:13:33.151 [Main] ERROR Main - Exception in main
+12:15:23.271 [StringValidator] INFO  StringValidator - Method isArray for line 23 3 12 -4 -123 returns true
+12:15:23.286 [ArrayReader] INFO  ArrayReader - String 23 3 12 -4 -123 is read
+12:15:23.286 [StringParser] INFO  StringParser - int string [23, 3, 12, -4, -123] is parsed into array
+12:15:23.286 [Main] INFO  Main - Main result is CustomArray{array=[23, 3, 12, -4, -123]}
+12:15:23.286 [Main] INFO  Main - result = CustomArray{array=[23, 12, 3, -4, -123]}
+12:16:04.938 [StringValidator] INFO  StringValidator - Method isArray for line 23 3 12 -4 -123 returns true
+12:16:04.947 [ArrayReader] INFO  ArrayReader - String 23 3 12 -4 -123 is read
+12:16:04.951 [StringParser] INFO  StringParser - int string [23, 3, 12, -4, -123] is parsed into array
+12:16:04.953 [Main] INFO  Main - Main result is CustomArray{array=[23, 3, 12, -4, -123]}
+12:16:04.955 [Main] INFO  Main - result = CustomArray{array=[-123, -4, 3, 12, 23]}
+12:16:27.402 [ArrayReader] ERROR ArrayReader - File validation failed
+12:16:27.413 [Main] ERROR Main - Exception in main
+12:16:45.645 [StringValidator] INFO  StringValidator - Method isArray for line a 23 74 -2 returns false
+12:16:45.652 [ArrayReader] ERROR ArrayReader - Line a 23 74 -2 is invalid
+12:20:28.099 [StringValidator] INFO  StringValidator - Method isArray for line 823h 27 6 returns false
+12:20:28.113 [ArrayReader] ERROR ArrayReader - Line 823h 27 6 is invalid
+12:20:54.261 [StringValidator] INFO  StringValidator - Method isArray for line 1 2 4 = 3 returns false
+12:20:54.267 [ArrayReader] ERROR ArrayReader - Line 1 2 4 = 3 is invalid
+12:36:28.818 [StringValidator] INFO  StringValidator - Method isArray for line 23 3 12 -4 -123 returns true
+12:36:28.826 [ArrayReader] INFO  ArrayReader - String 23 3 12 -4 -123 is read
+12:36:28.856 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:36:28.864 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:36:28.868 [FunctionalityImpl] ERROR FunctionalityImpl - Array is null
+12:36:28.890 [StringParser] INFO  StringParser - int string [1, -4, 6] is parsed into array
+12:36:28.894 [StringValidator] INFO  StringValidator - Method isArray for line 1 4 6 4 1 -3 5 returns true
+12:36:28.896 [StringValidator] INFO  StringValidator - Method isArray for line -1z 3 6 3 -7 returns false
